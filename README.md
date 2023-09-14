@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgnieszkaLieske
 - 👀 I’m interested in technology and digital art.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
